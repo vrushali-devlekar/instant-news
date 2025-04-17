@@ -22,11 +22,11 @@ Flask news app
 ---
 
 
-##Install Requirements
+## Install Requirements
 - pip install -r requirements.txt
 
-##🙌 Contributing
+## 🙌 Contributing
 > Feel free to fork this repo, suggest features, or open a pull request. Let's make this news app even better!
 
-##📄 License
+## 📄 License
 - This project is open-source and available under the MIT License.
