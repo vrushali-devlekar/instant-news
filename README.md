@@ -7,7 +7,7 @@ Flask news app
 **Insta-News** is a simple and stylish `Flask web application` that displays real-time news across categories like World, Technology, Finance, Sports, and more. The UI is built with **Bootstrap 5** and customized using **SCSS** for a fresh and modern look.
 
 ---
-<img width="923" alt="image" src="https://github.com/user-attachments/assets/43f4b664-5292-44f0-acd4-73cc3a97a759" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/43f4b664-5292-44f0-acd4-73cc3a97a759" />
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/cf302412-f4a4-4773-a481-5ae25d8f9ffd" /><img width="50%" alt="image" src="https://github.com/user-attachments/assets/c7ac5bbc-37f3-43a2-9fe3-374b45faf23d" />
 
 
